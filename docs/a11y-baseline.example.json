@@ -1,0 +1,10 @@
+[
+  {
+    "fingerprint": "9c1e4b7d3f2a",
+    "key": "color-contrast|FormBearbeiten|[\"#submit\"]",
+    "rule": "color-contrast",
+    "page": "FormularBearbeiten",
+    "ticket": "SWTST-1234",
+    "reason": "Designsystem-Fix geplant Q4"
+  }
+]
