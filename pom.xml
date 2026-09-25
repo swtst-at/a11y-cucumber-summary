@@ -11,7 +11,7 @@
 
     <name>a11y-cucumber-summary</name>
     <description>Smooth accessibility report from already used axe-core libary with deduplication and baseline</description>
-    <url>https://github.com/swtst/a11y-cucumber-summary</url>
+    <url>https://github.com/swtst-at/a11y-cucumber-summary</url>
 
     <licenses>
         <license>
@@ -32,10 +32,10 @@
     </developers>
 
     <scm>
-        <connection>scm:git:https://github.com/swtst/a11y-cucumber-summary.git</connection>
-        <developerConnection>scm:git:git@github.com:swtst/a11y-cucumber-summary.git</developerConnection>
-        <url>https://github.com/swtst/a11y-cucumber-summary</url>
-        <tag>HEAD</tag>
+        <connection>scm:git:https://github.com/swtst-at/a11y-cucumber-summary.git</connection>
+        <developerConnection>scm:git:git@github.com:swtst-at/a11y-cucumber-summary.git</developerConnection>
+        <url>https://github.com/swts-at/a11y-cucumber-summary</url>
+        <tag>v0.1.0</tag>
     </scm>
 
     <properties>
